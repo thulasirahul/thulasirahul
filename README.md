@@ -41,9 +41,6 @@
   <a href="https://leetcode.com/jthulasirahul/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-  <a href="https://www.instagram.com/asalways132/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://github.com/thulasirahul/thulasirahul/blob/main/Thulasi Rahul Software.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Gray?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
