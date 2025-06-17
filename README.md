@@ -36,7 +36,7 @@
   <a href="https://linkedin.com/in/thulasirahulj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jthulasirahul@gmail.com" target="_blank">
+  <a href="mailto:jthulasirahul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/thulasi_rahul/" target="_blank">
