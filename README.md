@@ -1,30 +1,32 @@
-<h2 align="center">Hey there 👋, I'm <span style="color:#FFA500">Thulasi Rahul J</span></h2>
+<h2 align="center">👋 Hello World! I'm Thulasi Rahul J</h2>
 
 <p align="center">
-  🎓 Aspiring Data Scientist & Software Developer | 💡 Problem Solver | 🌐 Full Stack Enthusiast  
+  🚀 Data Science Enthusiast | 💻 Full Stack Developer | 📊 AI & Analytics Explorer  
 </p>
 
 ---
 
-### 💫 About Me
-- 🔍 Skilled in **Data Science**, **Machine Learning**, and **Full-Stack Development**  
-- 💻 Proficient in **Python**, **Java**, **C**, **SQL**, **HTML/CSS**, **JavaScript**, **React.js**, **Django**, **Flask**  
-- 📊 Tools: **Jupyter**, **VS Code**, **Git**, **Anaconda**, **AWS**, **Tableau**, **Power BI**  
-- 🤖 Built AI-powered tools like a **CNN-based stenosis detection system**  
-- 🌱 Always learning — exploring **AI**, **Big Data**, and **Cloud Technologies**
+### 💡 About Me
+- 🧠 Computer Science graduate passionate about Data, AI, and Software
+- 💻 Strong in **Python**, **Java**, **C**, **SQL**, **HTML/CSS/JS**, **React.js**, **Flask**, **Django**
+- 🧪 Created deep learning tools like a **96% accurate spinal stenosis detector**
+- 📊 Built ML & NLP apps with **scikit-learn**, **TensorFlow**, and **pandas**
+- 🛠️ Worked with tools like **VS Code**, **Jupyter**, **AWS**, **Tableau**, **Power BI**
+- 📚 Always learning and building new tech that makes an impact
 
 ---
 
-### 🚀 Projects
-- 🔬 **Spinal Vision**: Deep learning model with ResNet & Django for spinal stenosis detection (96% accuracy)  
-- 🎥 **Sentiment Analyzer**: NLP-based movie review classifier with 85% accuracy
+### 🧠 Projects
+- 🔬 **Spinal Vision** – CNN-based web tool for spinal stenosis detection using ResNet & Django  
+- 🎞 **Sentiment Analysis** – Movie review classifier (85% accuracy) using NLP techniques  
 
 ---
 
-### 📜 Certifications
-- 📘 Machine Learning Specialization – *Stanford Online (Coursera)*  
-- 🐍 Python Pro Bootcamp – *Udemy*  
-- 🌐 Web Development Bootcamp – *Udemy*
+### 🧾 Certifications
+
+- 📘 [Machine Learning Specialization – Stanford Online (Coursera)](https://coursera.org/share/0b27c7ac0ee5c2effe43895aefdf913b)  
+- 🌐 [Web Development Bootcamp – Udemy](https://ude.my/UC-9d592daf-f829-4e0c-bc84-bdeccf230dc4)  
+- 🐍 Python Pro Bootcamp – *[Link Pending]*
 
 ---
 
@@ -32,16 +34,16 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/thulasirahulj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jthulasirahul@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/thulasi_rahul/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+⭐ *Thanks for stopping by! Feel free to explore my repositories and connect!*  
