@@ -9,7 +9,7 @@
 ### 💡 About Me
 - 🧠 Computer Science graduate passionate about Data, AI, and Software
 - 💻 Strong in **Python**, **Java**, **C**, **SQL**, **HTML/CSS/JS**, **React.js**, **Flask**, **Django**
-- 🧪 Created deep learning tools like a **96% accurate spinal stenosis detector**
+- 🧪 Created deep learning tools like a [**96% accurate spinal stenosis detector**](https://github.com/thulasirahul/stenosis-detection-cnn)
 - 📊 Built ML & NLP apps with **scikit-learn**, **TensorFlow**, and **pandas**
 - 🛠️ Worked with tools like **VS Code**, **Jupyter**, **AWS**, **Tableau**, **Power BI**
 - 📚 Always learning and building new tech that makes an impact
@@ -17,8 +17,10 @@
 ---
 
 ### 🧠 Projects
-- 🔬 **Spinal Vision** – CNN-based web tool for spinal stenosis detection using ResNet & Django  
+- 🧠 [**Stenosis Detection using CNN on MRI/CT Scans**](https://github.com/thulasirahul/stenosis-detection-cnn)  
+   Deep learning-based web app using ResNet and Django for automated lumbar spinal stenosis classification  
 - 🎞 **Sentiment Analysis** – Movie review classifier (85% accuracy) using NLP techniques  
+- 🌐 **My Portfolio Website** – Personal web page showcasing my repositories – *[Link Pending]*
 
 ---
 
