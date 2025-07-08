@@ -49,7 +49,7 @@
   <a href="https://leetcode.com/jthulasirahul/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-  <a href="https://github.com/thulasirahul/thulasirahul/blob/main/Thulasi Rahul.pdf" target="_blank">
+  <a href="https://github.com/thulasirahul/thulasirahul/blob/main/Thulasi Rahul J Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Gray?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
 </p>
