@@ -17,6 +17,7 @@
 ---
 
 ### 🧠 Projects
+
 - 🧠 [**Stenosis Detection using CNN on MRI/CT Scans**](https://github.com/thulasirahul/stenosis-detection-cnn)  
    Deep learning-based web app using ResNet and Django for automated lumbar spinal stenosis classification.
 
@@ -29,6 +30,23 @@
 - 📋 [**JobTracker Pro**](https://github.com/thulasirahul/jobtracker-pro)  
    A full-stack tool to manage and track job applications effectively — built with modern web technologies.
 
+---
+
+### 🎯 Latest Project: Meeting Summarizer
+
+<p align="center">
+  <a href="https://thulasirahul.github.io/Meeting-Summarizer/" target="_blank">
+    <img alt="Meeting Summarizer Live Demo" src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=chromium" />
+  </a>
+</p>
+
+Meeting Summarizer is a cutting-edge, **real-time AI meeting recorder** designed to capture live meetings, transcribe conversations, and extract actionable insights instantly — boosting team productivity and ensuring you never miss critical details.
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=238636&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=Real-time+Meeting+Recording;AI-Powered+Transcription+%26+Insights;Boost+Team+Productivity" alt="Animated Typing" />
+</p>
 
 ---
 
@@ -42,14 +60,14 @@
 
 ### 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/thulasirahulj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/jthulasirahul/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-  <a href="https://github.com/thulasirahul/thulasirahul/blob/main/Thulasi Rahul J Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/thulasirahul/thulasirahul/blob/main/Thulasi%20Rahul%20J%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Gray?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -57,3 +75,4 @@
 ---
 
 ⭐ *Thanks for stopping by! Feel free to explore my repositories and connect!*
+
