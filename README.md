@@ -1,69 +1,84 @@
-<h2 align="center">👋 Hello World! I'm Thulasi Rahul J</h2>
+<h1 align="center">👋 Hello World! I'm Thulasi Rahul J</h1>
 
 <p align="center">
-  🚀 Data Science Enthusiast | 💻 Full Stack Developer | 📊 AI & Analytics Explorer  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=238636&background=0D1117&center=true&width=600&height=50&lines=Building+Innovative+AI+and+Web+Apps;Fullstack+Developer+|+Data+Scientist+|+ML+Engineer" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thulasirahul" target="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=thulasirahul&color=0e75b6&style=flat-square" /></a>
 </p>
 
 ---
 
 ### 💡 About Me
-- 🧠 Computer Science graduate passionate about Data, AI, and Software
-- 💻 Strong in **Python**, **Java**, **C**, **SQL**, **HTML/CSS/JS**, **React.js**, **Flask**, **Django**
-- 🧪 Created deep learning tools like a 96% accurate spinal stenosis detector
-- 📊 Built ML & NLP apps with **scikit-learn**, **TensorFlow**, and **pandas**
-- 🛠️ Worked with tools like **VS Code**, **Jupyter**, **AWS**, **Tableau**, **Power BI** and **Firebase**
-- 📚 Always learning and building new tech that makes an impact
+- 🔭 I’m currently working on innovative AI & ML projects
+- 🌱 I’m currently learning advanced machine learning and web technologies
+- 👯 I’m looking to collaborate on open-source AI & data science projects
+- 💬 Ask me about Python, React, Flask, TensorFlow
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/thulasirahul)
 
 ---
 
-### 🧠 Projects
-
-- 🧠 [**Stenosis Detection using CNN on MRI/CT Scans**](https://github.com/thulasirahul/stenosis-detection-cnn)  
-   Deep learning-based web app using ResNet and Django for automated lumbar spinal stenosis classification.
-
-- 🎞 [**Sentiment Analysis** – Movie Review Classifier](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)  
-   Built with NLP techniques, achieves 85% accuracy in classifying IMDB movie reviews.
-
-- 🌐 [**My Portfolio Website**](https://github.com/thulasirahul/thulasi-portfolio)  
-   Personal website showcasing all major repositories and achievements.
-
-- 📋 [**JobTracker Pro**](https://github.com/thulasirahul/jobtracker-pro)  
-   A full-stack tool to manage and track job applications effectively — built with modern web technologies.
-
-- 🎥 [**Meeting Summarizer**](https://thulasirahul.github.io/Meeting-Summarizer/)  
-   Real-time AI meeting recorder and transcriber that captures live meetings, extracts action items and key decisions, boosting team productivity.
-
----
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=700&color=238636&background=0D1117&center=true&vCenter=true&width=700&height=80&lines=Building+AI+tools+that+make+an+impact;Software+Engineer+|+Data+Science+|+ML+Enthusiast" alt="Animated typing intro" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
 ---
 
-### 📜 Certifications
+### 🚀 Projects
 
-- 📘 [Machine Learning Specialization – Stanford Online (Coursera)](https://coursera.org/share/0b27c7ac0ee5c2effe43895aefdf913b)  
-- 🌐 [Web Development Bootcamp – Udemy](https://ude.my/UC-9d592daf-f829-4e0c-bc84-bdeccf230dc4)  
-- 🐍 [Python Pro Bootcamp – Udemy](https://www.udemy.com/certificate/UC-ab30f483-5732-42d6-a6a1-0e33f241b454/)
+- 💡 [Stenosis Detection CNN](https://github.com/thulasirahul/stenosis-detection-cnn)  
+  Deep learning for spinal stenosis classification
+
+- 🔥 [Sentiment Analysis](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-Project)  
+  NLP movie reviews classifier with 85% accuracy
+
+- 🌐 [Personal Portfolio](https://github.com/thulasirahul/thulasirahul)  
+  Highlighting all work and experience
+
+- 📈 [JobTracker Pro](https://github.com/thulasirahul/jobtracker-pro)  
+  Manage job applications systematically
+
+- 🎤 [Meeting Summarizer](https://thulasirahul.github.io/Meeting-Summarizer/)  
+  Real-time recording and AI-powered meeting transcription
 
 ---
 
-### 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/thulasirahulj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/jthulasirahul/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/thulasirahul/thulasirahul/blob/main/Thulasi%20Rahul%20J%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-Gray?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-  </a>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="100" alt="Animated coding"/>
 </p>
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to explore my repositories and connect!*
+### 🎓 Certifications
+
+- Stanford University: Machine Learning - Coursera  
+- Web Development Bootcamp - Udemy  
+- Python Pro Bootcamp - Udemy  
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/thulasirahul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/jthulasirahul" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://github.com/thulasirahul/thulasirahul/blob/main/Thulasi%20Rahul%20Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Gray?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=238636&background=0D1117&center=true&width=500&height=40&lines=Lets+Build+Great+Things+Together!" alt="Lets Build Great Things Together!"/>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my projects and reach out.
 
