@@ -53,7 +53,7 @@ me.say_hi()
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,sql)](https://skillicons.dev)
 
 ### 🌐 Web Development & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,tailwind)](https://skillicons.dev)
 
 ### 🤖 AI/ML & Data Science
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
