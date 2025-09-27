@@ -1,13 +1,13 @@
 # <div align="center">🚀 Thulasi Rahul J - Software Engineer & AI Enthusiast</div>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Development+Engineer;Passionate+about+AI+%26+Full-Stack+Development;Building+scalable+solutions+with+Python+%26+Java;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&repeat=false&width=800&height=200&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Development+Engineer;Passionate+about+AI+%26+Full-Stack+Development)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=thulasirahul&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thulasirahul)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thulasirahulj/)](https://www.linkedin.com/in/thulasirahulj/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jthulasirahul@gmail.com)](mailto:jthulasirahul@gmail.com)
+  [![Profile Views](https://komarev.com/ghpvc/?username=thulasirahul&label=Profile%20views&color=0e75b6&style=flat)]
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thulasirahulj/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jthulasirahul@gmail.com)
 </div>
 
 ---
@@ -34,15 +34,15 @@ me.say_hi()
 
 ## 🛠️ Tech Stack & Skills
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,sql,react,nodejs,django,tailwind,tensorflow,pytorch)](https://skillicons.dev)
+  [![Skills](https://skillicons.dev/icons?i=python,java,js,html,css,sql,react,nodejs,django,tailwind,tensorflow,pytorch)](https://skillicons.dev)
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thulasirahul&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=thulasirahul&theme=tokyonight&hide_border=true" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thulasirahul&show_icons=true&theme=tokyonight)]
+  [![Streak](https://streak-stats.demolab.com?user=thulasirahul&theme=tokyonight)]
 </div>
 
 ---
@@ -51,25 +51,25 @@ me.say_hi()
 <div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#1E1E2E" width="200" height="120">
+      <td align="center" bgcolor="#1E1E2E">
         🧠<br><strong>Spinal Vision</strong><br>96% stenosis detection accuracy<br>
-        <a href="https://github.com/thulasirahul/stenosis-detection-cnn">Repo</a>
+        [Repo](https://github.com/thulasirahul/stenosis-detection-cnn)
       </td>
-      <td align="center" bgcolor="#2A2A3A" width="200" height="120">
+      <td align="center" bgcolor="#2A2A3A">
         📊<br><strong>JobTracker Pro</strong><br>Track job applications<br>
-        <a href="https://github.com/thulasirahul/jobtracker-pro">Repo</a>
+        [Repo](https://github.com/thulasirahul/jobtracker-pro)
       </td>
-      <td align="center" bgcolor="#1E1E2E" width="200" height="120">
+      <td align="center" bgcolor="#1E1E2E">
         🌐<br><strong>Portfolio</strong><br>Interactive animations<br>
-        <a href="https://github.com/thulasirahul/thulasi-portfolio">Repo</a>
+        [Repo](https://github.com/thulasirahul/thulasi-portfolio)
       </td>
-      <td align="center" bgcolor="#2A2A3A" width="200" height="120">
+      <td align="center" bgcolor="#2A2A3A">
         🎭<br><strong>Sentiment Engine</strong><br>10K reviews, 85% accuracy<br>
-        <a href="https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project">Repo</a>
+        [Repo](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)
       </td>
-      <td align="center" bgcolor="#1E1E2E" width="200" height="120">
+      <td align="center" bgcolor="#1E1E2E">
         🎯<br><strong>Meeting Summarizer</strong><br>Real-time AI meeting recorder<br>
-        <a href="https://github.com/thulasirahul/Meeting-Summarizer">Repo</a>
+        [Repo](https://github.com/thulasirahul/Meeting-Summarizer)
       </td>
     </tr>
   </table>
@@ -78,13 +78,13 @@ me.say_hi()
 ---
 
 ## 🏆 Achievements & Certifications
-| Achievement | Badge |
-|-------------|-------|
-| LeetCode 150+ | ![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?logo=leetcode) |
-| Contest Rank 1621 | ![Rank](https://img.shields.io/badge/Rank-1621-gold) |
-| ML Specialist (Coursera) | ![Coursera](https://img.shields.io/badge/Coursera-ML-blue?logo=coursera) |
-| Python Expert | ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python) |
-| 🌐 Web Dev Cert | ![WebDev](https://img.shields.io/badge/Web%20Development-Certified-purple) |
+<div align="center">
+  [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?logo=leetcode)]
+  [![Rank](https://img.shields.io/badge/Rank-1621-gold)]
+  [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?logo=coursera)]
+  [![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)]
+  [![WebDev](https://img.shields.io/badge/Web%20Development-Certified-purple)]
+</div>
 
 ---
 
@@ -110,6 +110,6 @@ print("Life is continuous learning and fun! 🚀")
 
 ## 💬 Connect With Me
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?logo=gmail)](mailto:jthulasirahul@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/thulasirahulj/)
+  [![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?logo=gmail)]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]
 </div>
