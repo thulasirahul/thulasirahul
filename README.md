@@ -92,33 +92,17 @@ me.say_hi()
 
 <div align="center">
 
-### 🧠 Spinal Vision - CNN-Driven Stenosis Detection System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=stenosis-detection-cnn&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/stenosis-detection-cnn)
+### 🧠 [Spinal Vision](https://github.com/thulasirahul/stenosis-detection-cnn)
+CNN-based medical imaging system achieving 96% accuracy in stenosis detection
 
-**🎯 Achievements:** 96% Test Accuracy | 1000+ MRI Scans | ResNet Architecture  
-**🛠️ Tech Stack:** TensorFlow, Keras, Django, Python  
-**📝 Description:** Advanced CNN model for medical imaging analysis with web deployment
+### 📊 [JobTracker Pro](https://github.com/thulasirahul/jobtracker-pro)  
+Full-stack dashboard for tracking job applications with real-time updates
 
-### 📊 JobTracker Pro - Application Tracking Dashboard
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=jobtracker-pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/jobtracker-pro)
+### 🌐 [Portfolio Website](https://github.com/thulasirahul/thulasi-portfolio)
+Interactive portfolio showcasing projects with smooth animations
 
-**🎯 Achievements:** 50+ Applications Tracked | PDF Integration | Real-time Updates  
-**🛠️ Tech Stack:** React, Firebase, PDF.js, JavaScript  
-**📝 Description:** Comprehensive job application management system with intuitive UI
-
-### 🌐 Interactive Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=thulasi-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/thulasi-portfolio)
-
-**🎯 Achievements:** 7+ Interactive Sections | Responsive Design | Smooth Animations  
-**🛠️ Tech Stack:** React, Tailwind CSS, Framer Motion  
-**📝 Description:** Modern portfolio showcasing projects with stunning animations
-
-### 🎭 Sentiment Analysis Engine - Movie Reviews NLP
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)
-
-**🎯 Achievements:** 85% Classification Accuracy | 10,000+ Reviews Processed  
-**🛠️ Tech Stack:** Python, scikit-learn, NLTK, NLP  
-**📝 Description:** Advanced NLP pipeline for movie review sentiment classification
+### 🎭 [Sentiment Analysis Engine](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)
+NLP pipeline processing 10,000+ movie reviews with 85% classification accuracy
 
 </div>
 
