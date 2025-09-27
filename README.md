@@ -106,7 +106,7 @@ me.say_hi()
 |--------------------------|-------------------------------------|---------------------------------------------------------------------------------------|
 | 🎯 **LeetCode Warrior** | 150+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/jthulasirahul) |
 | 🏆 **Contest Ranking** | Highest Rank: 1621 | [![Contest](https://img.shields.io/badge/Rank-1621-gold?style=for-the-badge)](https://leetcode.com/jthulasirahul) |
-| 🎓 **ML Specialist** | Stanford Online (Coursera) | [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/K4OH2HMS16FZ) |
+| 🎓 **ML Specialist** | Machine Learning Stanford | [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/K4OH2HMS16FZ) |
 | 🐍 **Python Expert** | 100 Days of Code Bootcamp | [![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](https://www.udemy.com/certificate/UC-ab30f483-5732-42d6-a6a1-0e33f241b454/) |
 
 </div>
