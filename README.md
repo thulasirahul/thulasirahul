@@ -1,115 +1,188 @@
 # <div align="center">🚀 Thulasi Rahul J - Software Engineer & AI Enthusiast</div>
 
 <div align="center">
-  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&repeat=false&width=800&height=200&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Development+Engineer;Passionate+about+AI+%26+Full-Stack+Development)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Development+Engineer;Passionate+about+AI+%26+Full-Stack+Development;Building+scalable+solutions+with+Python+%26+Java;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=thulasirahul&label=Profile%20views&color=0e75b6&style=flat)]
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thulasirahulj/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jthulasirahul@gmail.com)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=thulasirahul&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thulasirahul)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thulasirahulj/)](https://www.linkedin.com/in/thulasirahulj/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jthulasirahul@gmail.com)](mailto:jthulasirahul@gmail.com)
+
 </div>
 
 ---
 
-## 🎯 About Me
+## <div align="center">🎯 About Me</div>
+
 ```python
 class ThulasiRahul:
-    def __init__(self):
-        self.name = "Thulasi Rahul J"
-        self.location = "Thiruvallur, Tamil Nadu 🇮🇳"
-        self.education = "B.E. Computer Science & Engineering"
-        self.role = "Software Development Engineer"
-        self.specialties = ["AI/ML", "Full-Stack Development", "Data Science"]
-        self.fun_fact = "I've solved 150+ LeetCode problems! 💪"
-    def get_contact(self):
-        return {"email":"jthulasirahul@gmail.com","linkedin":"linkedin.com/in/thulasirahulj"}
-    def say_hi(self):
-        print("Let's build something awesome! 🚀")
+def __init__(self):
+self.name = "Thulasi Rahul J"
+self.location = "Thiruvallur, Tamil Nadu 🇮🇳"
+self.education = "B.E. Computer Science & Engineering"
+self.role = "Software Development Engineer"
+self.specialties = ["AI/ML", "Full-Stack Development", "Data Science"]
+self.learning = ["Advanced AI", "Cloud Computing", "System Design"]
+self.fun_fact = "I've solved 150+ LeetCode problems! 💪"
+
+def get_contact(self):
+return {
+"email": "jthulasirahul@gmail.com",
+"linkedin": "linkedin.com/in/thulasirahulj",
+"github": "github.com/thulasirahul"
+}
+
+def say_hi(self):
+print("Thanks for dropping by! Let's build something awesome together! 🚀")
+
 me = ThulasiRahul()
 me.say_hi()
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## <div align="center">🛠️ Tech Stack & Skills</div>
+
 <div align="center">
-  [![Skills](https://skillicons.dev/icons?i=python,java,js,html,css,sql,react,nodejs,django,tailwind,tensorflow,pytorch)](https://skillicons.dev)
+
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,sql)](https://skillicons.dev)
+
+### 🌐 Web Development & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,tailwind,bootstrap)](https://skillicons.dev)
+
+### 🤖 AI/ML & Data Science
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
+
+### 🗄️ Databases & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,git,github)](https://skillicons.dev)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## <div align="center">📊 GitHub Analytics</div>
+
 <div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thulasirahul&show_icons=true&theme=tokyonight)]
-  [![Streak](https://streak-stats.demolab.com?user=thulasirahul&theme=tokyonight)]
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thulasirahul&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasirahul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thulasirahul&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## <div align="center">🚀 Featured Projects</div>
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#1E1E2E">
-        🧠<br><strong>Spinal Vision</strong><br>96% stenosis detection accuracy<br>
-        [Repo](https://github.com/thulasirahul/stenosis-detection-cnn)
-      </td>
-      <td align="center" bgcolor="#2A2A3A">
-        📊<br><strong>JobTracker Pro</strong><br>Track job applications<br>
-        [Repo](https://github.com/thulasirahul/jobtracker-pro)
-      </td>
-      <td align="center" bgcolor="#1E1E2E">
-        🌐<br><strong>Portfolio</strong><br>Interactive animations<br>
-        [Repo](https://github.com/thulasirahul/thulasi-portfolio)
-      </td>
-      <td align="center" bgcolor="#2A2A3A">
-        🎭<br><strong>Sentiment Engine</strong><br>10K reviews, 85% accuracy<br>
-        [Repo](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)
-      </td>
-      <td align="center" bgcolor="#1E1E2E">
-        🎯<br><strong>Meeting Summarizer</strong><br>Real-time AI meeting recorder<br>
-        [Repo](https://github.com/thulasirahul/Meeting-Summarizer)
-      </td>
-    </tr>
-  </table>
+
+### 🧠 [Spinal Vision](https://github.com/thulasirahul/stenosis-detection-cnn)
+CNN-based medical imaging system achieving 96% accuracy
+
+### 📊 [JobTracker Pro](https://github.com/thulasirahul/jobtracker-pro)
+Full-stack dashboard for tracking job applications
+
+### 🌐 [Portfolio Website](https://github.com/thulasirahul/thulasi-portfolio)
+Interactive portfolio with smooth animations
+
+### 🎭 [Sentiment Analysis Engine](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)
+NLP pipeline processing 10,000+ movie reviews
+
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## <div align="center">🏆 Achievements & Certifications</div>
+
 <div align="center">
-  [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?logo=leetcode)]
-  [![Rank](https://img.shields.io/badge/Rank-1621-gold)]
-  [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?logo=coursera)]
-  [![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)]
-  [![WebDev](https://img.shields.io/badge/Web%20Development-Certified-purple)]
+
+| Achievement | Details | Badge |
+|--------------------------|-------------------------------------|---------------------------------------------------------------------------------------|
+| 🎯 **LeetCode Warrior** | 150+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/thulasirahul) |
+| 🏆 **Contest Ranking** | Highest Rank: 1621 | [![Contest](https://img.shields.io/badge/Rank-1621-gold?style=for-the-badge)](https://leetcode.com/thulasirahul) |
+| 🎓 **ML Specialist** | Stanford Online (Coursera) | [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?style=for-the-badge&logo=coursera)](https://coursera.org) |
+| 🐍 **Python Expert** | 100 Days of Code Bootcamp | [![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](https://udemy.com) |
+
 </div>
 
 ---
 
-## 🎯 Goals & Vision
+## <div align="center">🎯 Goals & Vision</div>
+
+<div align="center">
+
+### 🎯 2025 Goals
 - 🏢 Land a Software Engineer role at a top tech company
 - 🌟 Contribute to major open-source ML frameworks
 - 🏆 Achieve 300+ LeetCode problems solved
 
+</div>
+
 ---
 
-## 🎮 When I'm Not Coding
+## <div align="center">📈 Weekly Development Breakdown</div>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python 12 hrs 30 mins ████████████░░░░░░░░░░░░░ 48.5%
+JavaScript 8 hrs 15 mins ████████░░░░░░░░░░░░░░░░░ 32.1%
+Java 3 hrs 45 mins ███░░░░░░░░░░░░░░░░░░░░░░ 14.6%
+CSS 1 hr 15 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.8%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## <div align="center">🎮 When I'm Not Coding</div>
+
+<div align="center">
+
 ```python
 hobbies = [
-  "Competitive Programming Contests",
-  "Learning New Technologies",
-  "Listening to Music",
-  "Watching One Piece"
+"Competitive Programming Contests",
+"Learning New Technologies",
+"Listening to Music",
+"Watching One Piece"
 ]
-print("Life is continuous learning and fun! 🚀")
+
+print("Life is about continuous learning and fun! 🚀")
 ```
+
+</div>
 
 ---
 
-## 💬 Connect With Me
+## <div align="center">💬 Let's Connect!</div>
+
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?logo=gmail)]
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+open+to+collaborate!;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jthulasirahul@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulasirahulj/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thanks for visiting my profile! Drop a ⭐ if you like what you see!**
+
 </div>
