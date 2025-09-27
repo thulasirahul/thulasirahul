@@ -19,10 +19,6 @@
 
 ## <div align="center">🎯 About Me</div>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello+World!+I'm+Thulasi+Rahul+J+%F0%9F%92%BB&text2=AI+%26+Full-Stack+Developer%F0%9F%A4%96&text3=Turning+Ideas+Into+Reality+With+Code&width=900&height=130" alt="typeWriter-animated-banner">
-</p>
-
 ```python
 class ThulasiRahul:
     def __init__(self):
@@ -90,12 +86,6 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thulasirahul&theme=tokyo-night&bg_color=0D1117&hide_border=true)
-
-</div>
-
 ---
 
 ## <div align="center">🚀 Featured Projects</div>
@@ -151,43 +141,9 @@ me.say_hi()
 
 ---
 
-## <div align="center">💼 Professional Experience</div>
+## <div align="center">🎯 Goals & Vision</div>
 
 <div align="center">
-
-### 🛡️ Cybersecurity Intern | DLK Career Development
-**📅 January 2023 | 📍 Chennai, Tamil Nadu**
-
-```yaml
-Responsibilities:
-  - Security Incident Response: "Remediated 20+ security incidents"
-  - Encryption & Firewall Management: "Implemented robust security protocols"
-  - Vulnerability Assessment: "Reduced exploitable vulnerabilities by 50%"
-  - Security Hardening: "Contributed actionable recommendations"
-  
-Impact:
-  - Enhanced system security posture
-  - Improved detection procedures
-  - Strengthened production systems
-```
-
-</div>
-
----
-
-## <div align="center">🎯 Current Focus & Goals</div>
-
-<div align="center">
-
-### 🚀 Currently Working On
-```javascript
-const currentProjects = {
-    "Medical AI": "Advancing CNN models for healthcare applications",
-    "System Design": "Learning scalable architecture patterns",
-    "Open Source": "Contributing to AI/ML communities",
-    "Competitive Programming": "Targeting 200+ LeetCode problems"
-};
-```
 
 ### 🎯 2025 Goals
 - 🏢 Land a Software Engineer role at a top tech company
@@ -195,16 +151,6 @@ const currentProjects = {
 - 🌟 Contribute to major open-source ML frameworks
 - 📚 Master advanced system design concepts
 - 🏆 Achieve 300+ LeetCode problems solved
-
-</div>
-
----
-
-## <div align="center">🌊 Contribution Graph</div>
-
-<div align="center">
-
-[![Thulasi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thulasirahul&theme=react-dark&bg_color=20232a&hide_border=true&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -254,14 +200,8 @@ print("Life is about continuous learning and growth! 🚀")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+open+to+collaborate!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!)](https://git.io/typing-svg)
 
-**🤝 I'm always excited to:**
-- Collaborate on innovative AI/ML projects
-- Discuss new technologies and frameworks  
-- Share knowledge and learn from others
-- Contribute to open-source initiatives
-- Network with fellow developers
+**🤝 Always excited to collaborate and network with fellow developers!**
 
-### 📧 Get In Touch
 [![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jthulasirahul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulasirahulj/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thulasirahul)
