@@ -9,7 +9,6 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=thulasirahul&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thulasirahul)
-[![GitHub followers](https://img.shields.io/github/followers/thulasirahul?label=Followers&style=social)](https://github.com/thulasirahul)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thulasirahulj/)](https://www.linkedin.com/in/thulasirahulj/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jthulasirahul@gmail.com)](mailto:jthulasirahul@gmail.com)
 
@@ -27,14 +26,12 @@ class ThulasiRahul:
         self.education = "B.E. Computer Science & Engineering"
         self.role = "Software Development Engineer"
         self.specialties = ["AI/ML", "Full-Stack Development", "Data Science"]
-        self.currently_working_on = "CNN-based Medical Imaging Solutions"
         self.learning = ["Advanced AI", "Cloud Computing", "System Design"]
         self.fun_fact = "I've solved 150+ LeetCode problems! 💪"
     
     def get_contact(self):
         return {
             "email": "jthulasirahul@gmail.com",
-            "phone": "+91 70105 10975",
             "linkedin": "linkedin.com/in/thulasirahulj",
             "github": "github.com/thulasirahul"
         }
@@ -60,12 +57,9 @@ me.say_hi()
 
 ### 🤖 AI/ML & Data Science
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,git,github)](https://skillicons.dev)
 
 </div>
 
@@ -93,16 +87,16 @@ me.say_hi()
 <div align="center">
 
 ### 🧠 [Spinal Vision](https://github.com/thulasirahul/stenosis-detection-cnn)
-CNN-based medical imaging system achieving 96% accuracy in stenosis detection
+CNN-based medical imaging system achieving 96% accuracy
 
-### 📊 [JobTracker Pro](https://github.com/thulasirahul/jobtracker-pro)  
-Full-stack dashboard for tracking job applications with real-time updates
+### 📊 [JobTracker Pro](https://github.com/thulasirahul/jobtracker-pro)
+Full-stack dashboard for tracking job applications
 
 ### 🌐 [Portfolio Website](https://github.com/thulasirahul/thulasi-portfolio)
-Interactive portfolio showcasing projects with smooth animations
+Interactive portfolio with smooth animations
 
 ### 🎭 [Sentiment Analysis Engine](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)
-NLP pipeline processing 10,000+ movie reviews with 85% classification accuracy
+NLP pipeline processing 10,000+ movie reviews
 
 </div>
 
@@ -112,14 +106,12 @@ NLP pipeline processing 10,000+ movie reviews with 85% classification accuracy
 
 <div align="center">
 
-| Achievement | Details | Badge |
-|-------------|---------|-------|
-| 🎯 **LeetCode Warrior** | 150+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/thulasirahul) |
-| 🏆 **Contest Ranking** | Highest Rank: 1621 | [![Contest](https://img.shields.io/badge/Rank-1621-gold?style=for-the-badge)](https://leetcode.com/thulasirahul) |
-| 🎓 **ML Specialist** | Stanford Online (Coursera) | [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?style=for-the-badge&logo=coursera)](https://coursera.org) |
-| 🐍 **Python Expert** | 100 Days of Code Bootcamp | [![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](https://udemy.com) |
-| 🌐 **Full-Stack Developer** | Complete Web Development | [![Web Dev](https://img.shields.io/badge/Full%20Stack-Certified-purple?style=for-the-badge)](https://udemy.com) |
-| 🛡️ **Security Expert** | Cybersecurity Internship | [![Security](https://img.shields.io/badge/Security-50%25%20Improvement-red?style=for-the-badge&logo=security)](https://dlk.career) |
+| Achievement              | Details                             | Badge                                                                                 |
+|--------------------------|-------------------------------------|---------------------------------------------------------------------------------------|
+| 🎯 **LeetCode Warrior**  | 150+ Problems Solved                | [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/thulasirahul) |
+| 🏆 **Contest Ranking**   | Highest Rank: 1621                  | [![Contest](https://img.shields.io/badge/Rank-1621-gold?style=for-the-badge)](https://leetcode.com/thulasirahul)   |
+| 🎓 **ML Specialist**     | Stanford Online (Coursera)          | [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?style=for-the-badge&logo=coursera)](https://coursera.org)                |
+| 🐍 **Python Expert**     | 100 Days of Code Bootcamp           | [![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](https://udemy.com)                              |
 
 </div>
 
@@ -131,9 +123,7 @@ NLP pipeline processing 10,000+ movie reviews with 85% classification accuracy
 
 ### 🎯 2025 Goals
 - 🏢 Land a Software Engineer role at a top tech company
-- 🤖 Publish research paper on medical AI applications
 - 🌟 Contribute to major open-source ML frameworks
-- 📚 Master advanced system design concepts
 - 🏆 Achieve 300+ LeetCode problems solved
 
 </div>
@@ -162,16 +152,14 @@ CSS          1 hr 15 mins    █░░░░░░░░░░░░░░░░
 <div align="center">
 
 ```python
-hobbies = {
-    "🎯": "Competitive Programming Contests",
-    "📚": "Reading Tech Blogs & Research Papers", 
-    "🎵": "Listening to Coding Playlists",
-    "🏃‍♂️": "Morning Jogs for Algorithm Inspiration",
-    "🎬": "Watching Tech Documentaries",
-    "🌱": "Learning New Technologies"
-}
+hobbies = [
+    "Competitive Programming Contests",
+    "Learning New Technologies",
+    "Listening to Music",
+    "Watching One Piece"
+]
 
-print("Life is about continuous learning and growth! 🚀")
+print("Life is about continuous learning and fun! 🚀")
 ```
 
 </div>
@@ -182,14 +170,10 @@ print("Life is about continuous learning and growth! 🚀")
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+open+to+collaborate!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!)](https://git.io/typing-svg)
-
-**🤝 Always excited to collaborate and network with fellow developers!**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+open+to+collaborate!;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jthulasirahul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulasirahulj/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thulasirahul)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2070105%2010975-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+917010510975)
 
 </div>
 
@@ -201,12 +185,4 @@ print("Life is about continuous learning and growth! 🚀")
 
 **Thanks for visiting my profile! Drop a ⭐ if you like what you see!**
 
-![Snake animation](https://github.com/thulasirahul/thulasirahul/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
