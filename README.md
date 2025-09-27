@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jthulasirahul&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jthulasirahul)
-[![GitHub followers](https://img.shields.io/github/followers/jthulasirahul?label=Followers&style=social)](https://github.com/jthulasirahul)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thulasi-rahul)](https://linkedin.com/in/thulasi-rahul)
+[![Profile Views](https://komarev.com/ghpvc/?username=thulasirahul&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thulasirahul)
+[![GitHub followers](https://img.shields.io/github/followers/thulasirahul?label=Followers&style=social)](https://github.com/thulasirahul)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thulasirahulj/)](https://www.linkedin.com/in/thulasirahulj/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jthulasirahul@gmail.com)](mailto:jthulasirahul@gmail.com)
 
 </div>
@@ -19,7 +19,9 @@
 
 ## <div align="center">🎯 About Me</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello+World!+I'm+Thulasi+Rahul+J+%F0%9F%92%BB&text2=AI+%26+Full-Stack+Developer%F0%9F%A4%96&text3=Turning+Ideas+Into+Reality+With+Code&width=900&height=130" alt="typeWriter-animated-banner">
+</p>
 
 ```python
 class ThulasiRahul:
@@ -37,8 +39,8 @@ class ThulasiRahul:
         return {
             "email": "jthulasirahul@gmail.com",
             "phone": "+91 70105 10975",
-            "linkedin": "linkedin.com/in/thulasi-rahul",
-            "github": "github.com/jthulasirahul"
+            "linkedin": "linkedin.com/in/thulasirahulj",
+            "github": "github.com/thulasirahul"
         }
     
     def say_hi(self):
@@ -77,20 +79,20 @@ me.say_hi()
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jthulasirahul&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthulasirahul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thulasirahul&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasirahul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jthulasirahul&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thulasirahul&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jthulasirahul&theme=tokyo-night&bg_color=0D1117&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thulasirahul&theme=tokyo-night&bg_color=0D1117&hide_border=true)
 
 </div>
 
@@ -101,28 +103,28 @@ me.say_hi()
 <div align="center">
 
 ### 🧠 Spinal Vision - CNN-Driven Stenosis Detection System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jthulasirahul&repo=spinal-vision&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/jthulasirahul/spinal-vision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=stenosis-detection-cnn&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/stenosis-detection-cnn)
 
 **🎯 Achievements:** 96% Test Accuracy | 1000+ MRI Scans | ResNet Architecture  
 **🛠️ Tech Stack:** TensorFlow, Keras, Django, Python  
 **📝 Description:** Advanced CNN model for medical imaging analysis with web deployment
 
 ### 📊 JobTracker Pro - Application Tracking Dashboard
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jthulasirahul&repo=jobtracker-pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/jthulasirahul/jobtracker-pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=jobtracker-pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/jobtracker-pro)
 
 **🎯 Achievements:** 50+ Applications Tracked | PDF Integration | Real-time Updates  
 **🛠️ Tech Stack:** React, Firebase, PDF.js, JavaScript  
 **📝 Description:** Comprehensive job application management system with intuitive UI
 
 ### 🌐 Interactive Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jthulasirahul&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/jthulasirahul/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=thulasi-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/thulasi-portfolio)
 
 **🎯 Achievements:** 7+ Interactive Sections | Responsive Design | Smooth Animations  
 **🛠️ Tech Stack:** React, Tailwind CSS, Framer Motion  
 **📝 Description:** Modern portfolio showcasing projects with stunning animations
 
-### 🎭 Sentiment Analysis Engine
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jthulasirahul&repo=sentiment-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/jthulasirahul/sentiment-analysis)
+### 🎭 Sentiment Analysis Engine - Movie Reviews NLP
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thulasirahul&repo=Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project)
 
 **🎯 Achievements:** 85% Classification Accuracy | 10,000+ Reviews Processed  
 **🛠️ Tech Stack:** Python, scikit-learn, NLTK, NLP  
@@ -138,8 +140,8 @@ me.say_hi()
 
 | Achievement | Details | Badge |
 |-------------|---------|-------|
-| 🎯 **LeetCode Warrior** | 150+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/jthulasirahul) |
-| 🏆 **Contest Ranking** | Highest Rank: 1621 | [![Contest](https://img.shields.io/badge/Rank-1621-gold?style=for-the-badge)](https://leetcode.com/jthulasirahul) |
+| 🎯 **LeetCode Warrior** | 150+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/thulasirahul) |
+| 🏆 **Contest Ranking** | Highest Rank: 1621 | [![Contest](https://img.shields.io/badge/Rank-1621-gold?style=for-the-badge)](https://leetcode.com/thulasirahul) |
 | 🎓 **ML Specialist** | Stanford Online (Coursera) | [![Coursera](https://img.shields.io/badge/Coursera-ML%20Certified-blue?style=for-the-badge&logo=coursera)](https://coursera.org) |
 | 🐍 **Python Expert** | 100 Days of Code Bootcamp | [![Python](https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python)](https://udemy.com) |
 | 🌐 **Full-Stack Developer** | Complete Web Development | [![Web Dev](https://img.shields.io/badge/Full%20Stack-Certified-purple?style=for-the-badge)](https://udemy.com) |
@@ -202,7 +204,7 @@ const currentProjects = {
 
 <div align="center">
 
-[![Thulasi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jthulasirahul&theme=react-dark&bg_color=20232a&hide_border=true&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Thulasi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thulasirahul&theme=react-dark&bg_color=20232a&hide_border=true&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -261,8 +263,8 @@ print("Life is about continuous learning and growth! 🚀")
 
 ### 📧 Get In Touch
 [![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jthulasirahul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thulasi-rahul)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jthulasirahul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulasirahulj/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thulasirahul)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2070105%2010975-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+917010510975)
 
 </div>
@@ -275,7 +277,7 @@ print("Life is about continuous learning and growth! 🚀")
 
 **Thanks for visiting my profile! Drop a ⭐ if you like what you see!**
 
-![Snake animation](https://github.com/jthulasirahul/jthulasirahul/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thulasirahul/thulasirahul/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
