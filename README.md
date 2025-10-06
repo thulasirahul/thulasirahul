@@ -20,24 +20,24 @@
 
 ```python
 class ThulasiRahul:
-def __init__(self):
-self.name = "Thulasi Rahul J"
-self.location = "Thiruvallur, Tamil Nadu 🇮🇳"
-self.education = "B.E. Computer Science & Engineering"
-self.role = "Software Development Engineer"
-self.specialties = ["AI/ML", "Full-Stack Development", "Data Science"]
-self.learning = ["Advanced AI", "Cloud Computing", "System Design"]
-self.fun_fact = "I've solved 150+ LeetCode problems! 💪"
+    def __init__(self):
+        self.name = "Thulasi Rahul J"
+        self.location = "Thiruvallur, Tamil Nadu 🇮🇳"
+        self.education = "B.E. Computer Science & Engineering"
+        self.role = "Software Development Engineer"
+        self.specialties = ["AI/ML", "Full-Stack Development", "Data Science"]
+        self.learning = ["Advanced AI", "Cloud Computing", "System Design"]
+        self.fun_fact = "I've solved 150+ LeetCode problems! 💪"
 
-def get_contact(self):
-return {
-"email": "jthulasirahul@gmail.com",
-"linkedin": "linkedin.com/in/thulasirahulj",
-"github": "github.com/thulasirahul"
-}
+    def get_contact(self):
+        return {
+        "email": "jthulasirahul@gmail.com",
+        "linkedin": "linkedin.com/in/thulasirahulj",
+        "github": "github.com/thulasirahul"
+        }
 
-def say_hi(self):
-print("Thanks for dropping by! Let's build something awesome together! 🚀")
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together! 🚀")
 
 me = ThulasiRahul()
 me.say_hi()
