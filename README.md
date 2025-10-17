@@ -167,7 +167,6 @@ print("Life is about continuous learning and fun! 🚀")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+open+to+collaborate!;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-jthulasirahul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jthulasirahul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulasirahulj/)
 
 </div>
