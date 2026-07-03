@@ -81,22 +81,6 @@ me.say_hi()
 
 ---
 
-## <div align="center">🚀 Featured Projects</div>
-
-<div align="center">
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 🧠 **Spinal Vision** | CNN-based medical imaging system achieving 96% accuracy | [![Repo](https://img.shields.io/badge/GitHub-Spinal%20Vision-black?style=for-the-badge&logo=github)](https://github.com/thulasirahul/stenosis-detection-cnn) |
-| 📊 **JobTracker Pro** | Full-stack dashboard for tracking job applications | [![Repo](https://img.shields.io/badge/GitHub-JobTracker%20Pro-black?style=for-the-badge&logo=github)](https://github.com/thulasirahul/jobtracker-pro) |
-| 🌐 **Portfolio Website** | Interactive portfolio with smooth animations | [![Repo](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/thulasirahul/thulasi-portfolio) |
-| 🎭 **Sentiment Analysis Engine** | NLP pipeline processing 10,000+ movie reviews | [![Repo](https://img.shields.io/badge/GitHub-Sentiment%20Engine-black?style=for-the-badge&logo=github)](https://github.com/thulasirahul/Sentiment-Analysis-of-Movie-Reviews-IMDB-NLP-Project) |
-
-</div>
-
-
----
-
 ## <div align="center">🏆 Achievements & Certifications</div>
 
 <div align="center">
