@@ -97,25 +97,6 @@ CSS 1 hr 15 mins █░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## <div align="center">🎮 When I'm Not Coding</div>
-
-<div align="center">
-
-```python
-hobbies = [
-"Competitive Programming Contests",
-"Learning New Technologies",
-"Listening to Music",
-"Watching One Piece"
-]
-
-print("Life is about continuous learning and fun! 🚀")
-```
-
-</div>
-
----
-
 ## <div align="center">💬 Let's Connect!</div>
 
 <div align="center">
